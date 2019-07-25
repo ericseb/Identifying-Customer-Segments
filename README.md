@@ -1,1 +1,2 @@
-# Identifying-Customer-Segments
+# Identify-Customer-Segments
+Unsupervised Learning
